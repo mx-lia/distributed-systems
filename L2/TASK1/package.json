@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "body-parser": "1.18.3",
-    "express": "4.16.3",
+    "express": "4.17.3",
     "portscanner": "2.1.1",
     "request": "2.85.0",
     "uuid": "3.2.1",
